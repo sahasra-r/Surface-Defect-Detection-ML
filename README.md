@@ -17,3 +17,35 @@ This project focuses on detecting industrial surface defects using machine learn
 ---
 
 ## 🗂️ Project Structure
+
+---
+
+## 📊 Machine Learning Algorithms Used
+
+- Gaussian Naïve Bayes (GNB)
+- Logistic Regression (LRC)
+- K-Nearest Neighbors (KNN)
+- Multi-Layer Perceptron (MLP)
+- Ridge Classifier
+- QDA Classifier
+- Extra Trees Classifier
+
+---
+
+## 🧪 Feature Extraction Techniques
+
+- Statistical Features:
+  - Mean
+  - Standard Deviation
+  - Skewness
+  - Kurtosis
+  - Energy
+
+- Texture Features (GLCM):
+  - Contrast
+  - Homogeneity
+  - Correlation
+  - Dissimilarity
+  - Angular Second Moment (ASM)
+
+---
